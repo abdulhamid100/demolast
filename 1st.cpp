@@ -5,18 +5,15 @@ using namespace std;
 
 int main()
 {
-    #ifndef ONLINE_JUDGE
-    freopen("input.txt","r",stdin);
-    freopen("output.txt","w",stdout);
-#endif
-   
-    ios::sync_with_stdio(0); 
-    cin.tie(0); 
-    cout.tie(0);
-
+    
+    //1st time push into repository
 
     cout<<"Hello I am Hamid"<<endl;
     cout<<"This is 1st repository\n";
+
+    //2nd time push into repository
+    cout<<"1st repository done\n";
+    
 
 
 
